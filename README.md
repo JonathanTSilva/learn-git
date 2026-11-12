@@ -1,3 +1,8 @@
+<!-- archive-banner:start -->
+> [!NOTE]
+> **This repository is archived.** It is read-only and no longer maintained. It is kept as a record of the work.
+<!-- archive-banner:end -->
+
 <!-- Simple logo -->
 <a href="#meu-guia-de-git"><img width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gtjD0wp0QJuTGvA0pjHgFYgWPmzb92tu-w&usqp=CAU" align="right" /></a>
 
